@@ -1,0 +1,11 @@
+{
+    "name": "맴버쉽 카드",
+    "description": "2024 다오랩 2기 마무리를 기념하기 위한 NFT 카드입니다. 해당 NFT는 전송이 불가능한 SBT 입니다.",
+    "image": "https://raw.githubusercontent.com/modudao/images/main/nft.png",
+    "attributes": [
+        {
+            "trait_type": "Membership Level",
+            "value": "Gold"
+        }
+    ]
+}
