@@ -1,0 +1,11 @@
+{
+    "name": "Membership NFT",
+    "description": "This is a membership NFT with special privileges.",
+    "image": "https://raw.githubusercontent.com/modudao/images/main/logo.png",
+    "attributes": [
+        {
+            "trait_type": "Membership Level",
+            "value": "Gold"
+        }
+    ]
+}
