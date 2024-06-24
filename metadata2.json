@@ -1,11 +1,20 @@
 {
-    "name": "맴버쉽 카드",
+    "name": "맴버십 카드",
     "description": "2024 다오랩 2기 마무리를 기념하기 위한 NFT 카드입니다. 해당 NFT는 전송이 불가능한 SBT 입니다.",
-    "image": "https://raw.githubusercontent.com/modudao/images/main/nft2.png",
+    "external_url": "https://modudao.github.io/webapp",
+    "image": "https://raw.githubusercontent.com/modudao/images/main/daolabnft2.png",
     "attributes": [
         {
-            "trait_type": "맴버십 레벨",
-            "value": "골드"
+            "trait_type": "프로젝트 이름",
+            "value": "다오랩"
+        },
+        {
+            "trait_type": "기수",
+            "value": "2기"
+        },
+        {
+            "trait_type": "수료기간",
+            "value": "2024-04-03 ~ 2024-06-26"
         }
     ]
 }
