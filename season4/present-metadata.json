@@ -1,0 +1,20 @@
+{
+    "name": "패딩 머플러",
+    "description": "따뜻한 겨울을 위한 특별한 패딩 머플러 RWA NFT입니다. 선착순 3명에게만 제공되며, 해당 NFT를 소유하면 실물 패딩 머플러를 받을 수 있습니다.",
+    "external_url": "https://modudao.github.io/season4",
+    "image": "https://raw.githubusercontent.com/modudao/images/main/season4/present.png",
+    "attributes": [
+        {
+            "trait_type": "RWA 유형",
+            "value": "패딩 머플러"
+        },
+        {
+            "trait_type": "한정 수량",
+            "value": "3개"
+        },
+        {
+            "trait_type": "제공일",
+            "value": "2025-01-21"
+        }
+    ]
+}
