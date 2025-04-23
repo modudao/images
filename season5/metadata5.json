@@ -1,0 +1,20 @@
+{
+    "name": "맴버십 카드",
+    "description": "2025 다오랩 5기의 시작을 기념하기 위한 NFT 카드입니다. 해당 NFT는 전송이 불가능한 SBT 입니다.",
+    "external_url": "https://modudao.github.io/season5",
+    "image": "https://raw.githubusercontent.com/modudao/images/main/season5/daolabnft5.png",
+    "attributes": [
+        {
+            "trait_type": "프로젝트 이름",
+            "value": "다오랩"
+        },
+        {
+            "trait_type": "기수",
+            "value": "5기"
+        },
+        {
+            "trait_type": "수료기간",
+            "value": "2025-04-09 ~ 2025-06-11"
+        }
+    ]
+}
